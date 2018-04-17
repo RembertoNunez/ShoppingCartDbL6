@@ -1,6 +1,10 @@
 <?php
 //mysql://b2775cf9a33944:3f377ff9@us-cdbr-iron-east-05.cleardb.net/heroku_270e0415554d092?reconnect=true
 function getDatabaseConnection() {
+    // $host = "localhost";
+    // $username = "root";
+    // $password = "";
+    // $dbname = "Shopping_Cart"; 
     $host = "us-cdbr-iron-east-05.cleardb.net";
     $username = "b2775cf9a33944";
     $password = "3f377ff9";
